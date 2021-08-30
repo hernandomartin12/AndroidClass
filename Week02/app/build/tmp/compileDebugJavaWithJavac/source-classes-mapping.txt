@@ -1,0 +1,8 @@
+id/ac/umn/hernando_36671/BuildConfig.java
+ id.ac.umn.hernando_36671.BuildConfig
+id/ac/umn/hernando_36671/MainActivity.java
+ id.ac.umn.hernando_36671.MainActivity
+ id.ac.umn.hernando_36671.MainActivity$1
+ id.ac.umn.hernando_36671.MainActivity$2
+ id.ac.umn.hernando_36671.MainActivity$3
+ id.ac.umn.hernando_36671.MainActivity$4
