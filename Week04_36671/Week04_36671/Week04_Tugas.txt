@@ -1,0 +1,9 @@
+Tutorial Intent dan Passing Data
+Aplikasi dapat berjalan dengan baik, dimana dapat membuka dan kembali dari satu layout ke layout lainnya. Serta passing data antar layout.
+
+Tutorial Fragment
+Fragment via Layout
+Aplikasi dapat berjalan dengan baik, dimana dapat membuka dan kembali dari satu layout ke layout lainnya. Serta dapat menggunakan fragment via layout dan memanggil beberapa fragment dalam satu layout.
+
+Fragment via Programmatic
+Aplikasi dapat berjalan dengan baik, dimana dapat membuka dan kembali dari satu layout ke layout lainnya. Serta dapat menggunakan fragment via Frame layout dan memanggil beberapa fragment dalam satu layout.
