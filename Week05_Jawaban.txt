@@ -1,0 +1,11 @@
+Hernando Martin - 36671
+
+1. Radio Button:
+	- Rect = Membuat rectangle/square 
+	- Oval = Membuat oval/lingkaran 
+	- Line = Membuat garis 
+	- Path = Membuat garis asal mengikuti cursor
+
+Seek Bar: Mengubah warna berdasarkan RGB. Hasil kombinasi RGB dapat dilihat pada ImageButton.
+
+Clear: Ketika tombol ini diklik, semua gambar/coretan yang ada akan terhapus.

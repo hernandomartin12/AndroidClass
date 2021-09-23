@@ -1,0 +1,3 @@
+Hernando Martin - 36671
+
+Ketika tombol "Ambil Foto" diklik, aplikasi akan membuka kamera pada device. Setelah mengambil foto, foto dapat dilihat. Dan pada saat mengambil video juga dapat di lihat setelah diambil
